@@ -27,4 +27,3 @@ function displayWindowSize() {
 // Initial display when page loads
 displayWindowSize();
 window.addEventListener('load', displayWindowSize);
-
